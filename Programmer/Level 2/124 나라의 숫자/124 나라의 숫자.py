@@ -31,6 +31,4 @@ def solution(n):
         q, r = divmod(n-1, 3)
         return solution(q) + '124'[r]
 
-
-
 solution(4)
