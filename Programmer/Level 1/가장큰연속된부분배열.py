@@ -1,21 +1,21 @@
-def solution(nums):
-    answer = []
-    temp = []
-    nums_length = int(len(nums))
-    for i in range(0, nums_length):
-        temp.append([nums[i]])
-    for i in range(0, nums_length):
-        for j in range(i+1, nums_length):
-            temp.append(nums[i:j+1])
-    maxarr = min(temp)
-    print(maxarr)
-    for i in range(0, len(temp)):
-        if sum(maxarr) < sum(temp[i]):
-            maxarr = temp[i]
-    print(maxarr)
-    return sum(maxarr)
-
-solution([-5,1,-3,2,-6,5,4])
+# def solution(nums):
+#     answer = []
+#     temp = []
+#     nums_length = len(nums)
+#     for i in range(0, nums_length):
+#         temp.append([nums[i]])
+#     for i in range(0, nums_length):
+#         for j in range(i+1, nums_length):
+#             temp.append(nums[i:j+1])
+#     maxarr = min(temp)
+#     print(maxarr)
+#     for i in range(0, len(temp)):
+#         if sum(maxarr) < sum(temp[i]):
+#             maxarr = temp[i]
+#     print(maxarr)
+#     return sum(maxarr)
+#
+# solution([-5,1,-3,2,-6,5,4])
 '''
 문제 설명
 문제 개요
@@ -29,3 +29,20 @@ Output: 6
 문제 설명: [4,-1,2,1] 의 합이 6으로 가장 큰 부분배열이다.
 
 '''
+
+def solution(nums):
+
+    cutarr = []
+    maxsum = nums[0:1]
+
+    for i in range(1, len(nums)):
+        for j in range(0, len(nums)-i+1):
+            sumcutarr = sum(nums[j:j+i])
+            if sumcutarr > maxsum[0]:
+                maxsum[0] = sumcutarr
+
+    return maxsum[0]
+
+
+solution([-5,1,-3,2,-6,5,4])
+solution([1, 2])
