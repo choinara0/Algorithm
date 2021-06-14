@@ -1,6 +1,4 @@
-'''
 
-'''
 def solution(N, stages):
     # answer = []
     # arrive = [0 for i in range(N+1)]

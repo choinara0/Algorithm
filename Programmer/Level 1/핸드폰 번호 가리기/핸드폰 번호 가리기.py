@@ -1,7 +1,3 @@
-'''
-
-'''
-
 
 def solution(phone_number):
     answer = ''
