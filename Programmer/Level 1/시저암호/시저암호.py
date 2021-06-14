@@ -1,40 +1,69 @@
-'''
-시저 암호
-문제 설명
-어떤 문장의 각 알파벳을 일정한 거리만큼 밀어서 다른 알파벳으로 바꾸는 암호화 방식을 시저 암호라고 합니다. 예를 들어 "AB"는 1만큼 밀면 "BC"가 되고, 3만큼 밀면 "DE"가 됩니다. "z"는 1만큼 밀면 "a"가 됩니다. 문자열 s와 거리 n을 입력받아 s를 n만큼 민 암호문을 만드는 함수, solution을 완성해 보세요.
-
-제한 조건
-공백은 아무리 밀어도 공백입니다.
-s는 알파벳 소문자, 대문자, 공백으로만 이루어져 있습니다.
-s의 길이는 8000이하입니다.
-n은 1 이상, 25이하인 자연수입니다.
-입출력 예
-s	n	result
-"AB"	1	"BC"
-"z"	1	"a"
-"a B z"	4	"e F d"
-'''
 
 
-def solution(s, n):
-    answer = ''
-    for i in s:
-        ord_s_i = ord(i)
-        new_s_i = ord(i) + n
+# def solution(s, n):
+#     answer = ''
+#     for i in s:
+#         ord_s_i = ord(i)
+#         new_s_i = ord(i) + n
+#
+#         if ord_s_i >= 65 and ord_s_i <= 90:
+#             if new_s_i > 90:
+#                 new_s_i -= 26
+#                 answer += chr(new_s_i)
+#             else:
+#                 answer += chr(new_s_i)
+#         elif ord_s_i >= 97 and ord_s_i <= 122:
+#             if new_s_i > 122:
+#                 new_s_i -= 26
+#                 answer += chr(new_s_i)
+#             else:
+#                 answer += chr(new_s_i)
+#         else:
+#             answer += " "
+#
+#     return answer
 
-        if ord_s_i >= 65 and ord_s_i <= 90:
-            if new_s_i > 90:
-                new_s_i -= 26
-                answer += chr(new_s_i)
-            else:
-                answer += chr(new_s_i)
-        elif ord_s_i >= 97 and ord_s_i <= 122:
-            if new_s_i > 122:
-                new_s_i -= 26
-                answer += chr(new_s_i)
-            else:
-                answer += chr(new_s_i)
-        else:
-            answer += " "
+# def solution(prices):
+#     answer = []
+#     for i in range(len(prices)):
+#         cnt = 1
+#         idx = i + 1
+#         if i == len(prices)-1:
+#             answer.append(0)
+#             break
+#         while(1):
+#             if idx == len(prices)-1:
+#                 answer.append(cnt)
+#                 break
+#             if prices[i] <=prices[idx]:
+#                 cnt += 1
+#                 idx += 1
+#             else:
+#                 answer.append(cnt)
+#                 break
+#     return answer
+# solution([498, 501, 470, 489])
+# solution([1,2,3,2,3])
+import heapq
 
+import heapq
+def solution(coins, amount):
+    answer = 0
+    check = 0
+    coins.sort()
+    new_c = [-i for i in coins]
+    heap_c = heapq.heapify(new_c)
+
+    while(new_c):
+        max_c = min(new_c)
+        if amount + max_c >=0:
+            amount = amount + max_c
+            check += 1
+        elif amount +max_c <= 0:
+            new_c.pop(0)
+        print(amount)
+    print(check)
     return answer
+
+solution([1,2,5], 11)
+
