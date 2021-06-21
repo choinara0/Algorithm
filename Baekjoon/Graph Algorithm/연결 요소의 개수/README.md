@@ -29,3 +29,6 @@
 - 2 3
 ### 예제 출력 2 
 1
+
+### 문제 출처
+[백준](https://www.acmicpc.net/problem/11724)
