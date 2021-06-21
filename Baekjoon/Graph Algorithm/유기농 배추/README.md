@@ -62,3 +62,6 @@
 - 4 0
 #### 예제 출력 2 
 - 2
+
+#### 문제출처
+[백준](https://www.acmicpc.net/problem/1012)
