@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(10**6)
+
 def dfs(r, c):
     visited[r][c] = 1
     if matrix[r][c] == 'P':
@@ -11,7 +14,7 @@ def dfs(r, c):
                 dfs(nx, ny)
     return
 
-n, m = map(int, input().split())
+n, m = map(int, sys.stdin.readline().split())
 visited = [[0]*m for i in range(n)]
 matrix = []
 dx = [-1, 1, 0, 0]
