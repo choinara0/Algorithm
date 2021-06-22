@@ -131,6 +131,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98"> 연결 요소의 개수 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94"> 유기농 배추 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98"> 섬의 개수 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD"> 안전 영역 </a></li>
 </ul>
 </div>
 </details>
