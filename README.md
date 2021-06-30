@@ -98,7 +98,7 @@
 <div markdown="1">
 <ul>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC"> 네트워크 </a></li>
-<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98"> 단어 변환 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98"> 단어 변환 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C"> 여행경로 </a></li>
 
 
