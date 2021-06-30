@@ -89,8 +89,6 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%ED%8A%9C%ED%94%8C">튜플 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%ED%94%84%EB%A6%B0%ED%84%B0">프린터 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%ED%9A%8C%EC%82%AC%20%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84">회사 숫자 게임 </a></li>
-<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98"> 단어 변환 </a></li>
-
 
 </ul>
 </div>
@@ -100,6 +98,7 @@
 <div markdown="1">
 <ul>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC"> 네트워크 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98"> 단어 변환 </a></li>
 
 
 </ul>
