@@ -94,7 +94,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0"> 큰 수 만들기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99"> 점프와 순간이동 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EA%B5%AC%EB%A9%8D%EB%B3%B4%ED%8A%B8"> 구멍 보트 </a></li>
-
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0"> 땅따먹기 </a></li>
 </ul>
 </div>
 </details>
