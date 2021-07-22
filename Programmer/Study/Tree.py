@@ -24,13 +24,13 @@ class BinaryTree:
                 if self.currentNode.left != None:
                     self.currentNode = self.currentNode.left
                 else:
-                    self.currentNode.left = value
+                    self.currentNode.left = Node(value)
                     break
             else:
                 if self.currentNode.right != None:
                     self.currentNode = self.currentNode.right
                 else:
-                    self.currentNode.right = value
+                    self.currentNode.right = Node(value)
                     break
 
     def search(self, value):
@@ -98,7 +98,7 @@ class BinaryTree:
             elif value > self.parent.value : #삭제할 Node가 삭제할 Node의 parent보다 값이 클 때
                 self.changeNode = self.currentNode.right
                 self.changeNodeParent = self.currentNode.right
-                while self.changeNode.lfet != None:
+                while self.changeNode.left != None:
                     self.changeNodeParent = self.changeNode
                     self.changeNode = self.changeNode.left
                 if self.changeNode.right != None:
@@ -111,8 +111,25 @@ class BinaryTree:
         return True
 
 
-head = Node(3)
-bt = BinaryTree(head)
-bt.insert(5)
-
-
+# import random
+# bst_nums = set()
+# while len(bst_nums) != 100:
+#     bst_nums.add(random.randint(0, 999))
+#
+# head = Node(500)
+# binary_tree = BinaryTree(head)
+# for num in bst_nums:
+#     binary_tree.insert(num)
+#
+# for num in bst_nums:
+#     if binary_tree.search(num) == False:
+#         print(1)
+#
+# delete_nums = set()
+# bst_nums = list(bst_nums)
+# while len(delete_nums) != 10:
+#     delete_nums.add(bst_nums[random.randint(0, 99)])
+#
+# for del_num in delete_nums:
+#     if binary_tree.delete(del_num) == False:
+#         print(1)
