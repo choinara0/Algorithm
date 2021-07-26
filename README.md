@@ -143,6 +143,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EC%98%81%EC%83%81%20%EC%B2%98%EB%A6%AC"> 영상 처리 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EB%84%88%EA%B5%AC%EB%A6%AC%20%EA%B5%AC%EA%B5%AC"> 너구리 구구 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm"> 설탕 배달 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0"> 1로 만들기 </a></li>
 </ul>
 </div>
 </details>
