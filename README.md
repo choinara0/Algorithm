@@ -100,7 +100,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89"> 순위 검색 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC"> 파일명 정렬 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0"> 괄호 회전하기 </a></li>
-<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98">괄호 변환하기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98">괄호 변환 </a></li>
 </ul>
 </div>
 </details>
