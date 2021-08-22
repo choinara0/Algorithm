@@ -102,6 +102,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0"> 괄호 회전하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98">괄호 변환 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC"> 메뉴 리뉴얼 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/N%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84"> N진수 게임 </a></li>
 </ul>
 </div>
 </details>
