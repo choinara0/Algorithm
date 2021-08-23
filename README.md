@@ -57,7 +57,7 @@
 <div markdown="1">
 <ul>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90">124 나라의 숫자</a></li>
-<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8%20-%20%EC%98%A4%EB%8B%B5">2개 이하로 다른 비트 - 오답 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8%20-%20%EC%98%A4%EB%8B%B5">2개 이하로 다른 비트 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/H-Index">H-Index </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0">JadenCase 문자열 만들기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98">N개의 최소공배수 </a></li>
@@ -103,6 +103,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98">괄호 변환 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC"> 메뉴 리뉴얼 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/N%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84"> N진수 게임 </a></li>
+
 </ul>
 </div>
 </details>
