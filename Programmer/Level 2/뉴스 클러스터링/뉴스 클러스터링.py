@@ -1,6 +1,5 @@
 def convert_dict(str):
     arr = []
-
     for i in range(len(str)-1):
         x = str[i]
         y = str[i+1]
