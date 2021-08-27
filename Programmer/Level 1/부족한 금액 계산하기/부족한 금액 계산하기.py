@@ -8,4 +8,4 @@ def solution(price, money, count):
         return sum - money
 
 
-solution(1, 1, 1)
+solution(3, 20, 4) # 10
