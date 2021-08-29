@@ -48,6 +48,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4"> 숫자 문자열과 영단어 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0"> 부족한 금액 계산하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/%EC%83%81%ED%98%B8%20%ED%8F%89%EA%B0%80"> 상호 평가 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/%EC%A7%81%EC%97%85%EA%B5%B0%20%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0"> 직업군 추천하기 </a></li>
 
 
 
