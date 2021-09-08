@@ -166,6 +166,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89"> 미로 탐색 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0"> 단지번호붙이기g</a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EC%96%91"> 양 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EC%97%B0%EA%B5%AC%EC%86%8C"> 연구소 </a></li>
 </ul>
 </div>
 </details>
