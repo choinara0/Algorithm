@@ -156,7 +156,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD"> 2468번 - 안전 영역 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EC%98%81%EC%83%81%20%EC%B2%98%EB%A6%AC"> 21938번 - 영상 처리 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/%EB%84%88%EA%B5%AC%EB%A6%AC%20%EA%B5%AC%EA%B5%AC"> 18126번 - 너구리 구구 </a></li>
-<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm"> 설탕 배달 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm"> 2839번 - 설탕 배달 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0"> 1463번 - 1로 만들기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0"> 9095번 - 1, 2, 3 더하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98"> 1003번 - 피보나치 함수 </a></li>
