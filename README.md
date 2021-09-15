@@ -174,6 +174,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/10026%EB%B2%88%20-%20%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD"> 10062번 - 적록색약 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1987%EB%B2%88%20-%20%EC%95%8C%ED%8C%8C%EB%B2%B3"> 1987번 - 알파벳 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/2206%EB%B2%88%20-%20%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0"> 2206번 - 벽 부수고 이동하기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1520%EB%B2%88%20-%20%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8"> 1520번 - 내리막길 </a></li>
 </ul>
 </div>
 </details>
