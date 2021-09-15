@@ -1,4 +1,5 @@
 import sys
+sys.setrecursionlimit(10000)
 
 M, N = map(int, sys.stdin.readline().split())
 matrix = []
