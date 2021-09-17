@@ -25,5 +25,3 @@ for i in range(N):
             removed_cnt += 1
 
 print(len(num))
-
-
