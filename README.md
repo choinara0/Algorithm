@@ -178,6 +178,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1520%EB%B2%88%20-%20%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8"> 1520번 - 내리막길 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2503%EB%B2%88%20-%20%EC%88%AB%EC%9E%90%20%EC%95%BC%EA%B5%AC"> 2503번 - 숫자 야구 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/14501%EB%B2%88%20-%20%ED%87%B4%EC%82%AC"> 14501번 - 퇴사 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2798%EB%B2%88%20-%20%EB%B8%94%EB%9E%99%EC%9E%AD"> 2798번 - 블랙잭 </a></li>
 </ul>
 </div>
 </details>
