@@ -180,7 +180,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/14501%EB%B2%88%20-%20%ED%87%B4%EC%82%AC"> 14501번 - 퇴사 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2798%EB%B2%88%20-%20%EB%B8%94%EB%9E%99%EC%9E%AD"> 2798번 - 블랙잭 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2309%EB%B2%88%20-%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4"> 2309번 - 일곱 난쟁이 </a></li>
-<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/7568%EB%B2%88%20-%20%EB%8D%A9%EC%B9%98"> 7568번 - 덩치 </a></li> 
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/7568%EB%B2%88%20-%20%EB%8D%A9%EC%B9%98"> 7568번 - 덩치 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1436%EB%B2%88%20-%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C"> 1436번 - 영화감독 숌 </a></li>
 </ul>
 </div>
 </details>
