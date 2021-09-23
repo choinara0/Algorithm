@@ -183,6 +183,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/7568%EB%B2%88%20-%20%EB%8D%A9%EC%B9%98"> 7568번 - 덩치 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1436%EB%B2%88%20-%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C"> 1436번 - 영화감독 숌 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/10974%EB%B2%88%20-%20%EB%AA%A8%EB%93%A0%20%EC%88%9C%EC%97%B4"> 10974번 - 모든 순열 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/10819%EB%B2%88%20-%20%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C"> 10819번 - 차이를 최대로 </a></li>
 </ul>
 </div>
 </details>
