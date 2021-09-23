@@ -6,6 +6,9 @@ N = int(sys.stdin.readline())
 
 A = list(map(int, sys.stdin.readline().split(" ")))
 op = list(map(int, sys.stdin.readline().split(" ")))
+
+print(A)
+print(op)
 ops = []
 
 for i in range(4):
