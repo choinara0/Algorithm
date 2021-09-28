@@ -186,6 +186,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/10819%EB%B2%88%20-%20%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C"> 10819번 - 차이를 최대로 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/9663%EB%B2%88%20-%20N-Queen"> 9663번 - N-Queen </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/10971%EB%B2%88%20-%20%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C%202"> 10981번 - 외판원 순회 2</a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/3055%EB%B2%88%20-%20%ED%83%88%EC%B6%9C"> 3055번 - 탈출 </a></li>
 </ul>
 </div>
 </details>
