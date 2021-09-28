@@ -25,12 +25,9 @@ for i in range(R):
             target_y = j
 
 while q:
-
     if flag:
         break
-
     x, y = q.popleft()
-
     for i in range(4):
         nx, ny = x + dxs[i], y + dys[i]
         if nx<0 or nx>=R or ny<0 or ny>=C:
