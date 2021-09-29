@@ -188,7 +188,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/10971%EB%B2%88%20-%20%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C%202"> 10981번 - 외판원 순회 2</a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/3055%EB%B2%88%20-%20%ED%83%88%EC%B6%9C"> 3055번 - 탈출 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/16234%EB%B2%88%20-%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99"> 16234번 - 인구 이동 </a></li>
-<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/15649%EB%B2%88%20-%20N%EA%B3%BC%20M(1)"> 15649번 - N과 M(1)</a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/15649%EB%B2%88%20-%20N%EA%B3%BC%20M(1)"> 15649번 - N과 M(1) </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/15650%EB%B2%88%20-%20N%EA%B3%BC%20M(2)"> 156650번 - N과 M(2) </a></li>
 </ul>
 </div>
 </details>
