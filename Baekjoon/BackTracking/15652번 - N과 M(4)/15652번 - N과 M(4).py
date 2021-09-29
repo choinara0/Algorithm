@@ -13,15 +13,9 @@ def dfs():
                 result.append(i)
                 dfs()
                 result.pop()
-            elif len(result) >= 1:
-                x = result.pop()
-                if i >= x:
-                    result.append(x)
-                    result.append(i)
-                    dfs()
-                    result.pop()
-                else:
-                    result.append(x)
-
+            elif result[-1] <= i:
+                result.append(i)
+                dfs()
+                result.pop()
 
 dfs()
