@@ -200,6 +200,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/15664%EB%B2%88%20-%20N%EA%B3%BC%20M(10)"> 15664번 - N과 M(10) </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/15664%EB%B2%88%20-%20N%EA%B3%BC%20M(10)"> 15665번 - N과 M(11) </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/15664%EB%B2%88%20-%20N%EA%B3%BC%20M(10)"> 15666번 - N과 M(12) </a></li>
+<li><a rhef="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/6603%EB%B2%88%20-%20%EB%A1%9C%EB%98%90"> 6603번 - 로또 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/14889%EB%B2%88%20-%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC"> 14889번 - 스타트와 링크 </a></li>
 </ul>
 </div>
 </details>
