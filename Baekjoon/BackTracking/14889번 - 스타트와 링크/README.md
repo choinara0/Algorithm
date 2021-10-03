@@ -75,4 +75,4 @@ N=4이고, S가 아래와 같은 경우를 살펴보자.
 - 1
 
 ### 문제 출처
-[https://www.acmicpc.net/problem/14889]
+[백준](https://www.acmicpc.net/problem/14889)
