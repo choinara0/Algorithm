@@ -206,6 +206,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/14888%EB%B2%88%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0"> 14888번 - 연산자 끼워넣기 /li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/1062%EB%B2%88%20-%20%EA%B0%80%EB%A5%B4%EC%B9%A8"> 1062번 - 가르침 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/2580%EB%B2%88%20-%20%EC%8A%A4%EB%8F%84%EC%BF%A0"> 2580번 - 스도쿠 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/2023%EB%B2%88%20-%20%EC%8B%A0%EA%B8%B0%ED%95%9C%20%EC%86%8C%EC%88%98"> 2023번 - 신기한 소수 </a></li>
 </ul>
 </div>
 </details>
