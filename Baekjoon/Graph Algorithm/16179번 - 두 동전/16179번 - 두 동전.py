@@ -12,8 +12,6 @@ for i in range(N):
             temp.append((i, j))
 dx = [-1, 0, 0, 1]
 dy = [0, -1, 1, 0]
-firstCheck = False
-secondCheck = False
 q.append((temp[0][0], temp[0][1], temp[1][0], temp[1][1], 0))
 
 def bfs():
