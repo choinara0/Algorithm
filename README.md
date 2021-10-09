@@ -210,6 +210,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/1038%EB%B2%88%20-%20%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%20%EC%88%98"> 1038번 - 감소하는 수 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2579%EB%B2%88%20-%20%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0"> 2579번 - 계단 오르기 </a></li>
 <li><a rhef="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1149%EB%B2%88%20-%20RGB%EA%B1%B0%EB%A6%AC%20"> 1149번 - RGB거리 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1932%EB%B2%88%20-%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95"> 1932번 - 정수 삼각형 </a></li>
 </ul>
 </div>
 </details>
