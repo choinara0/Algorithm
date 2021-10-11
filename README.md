@@ -212,6 +212,7 @@
 <li><a rhef="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1149%EB%B2%88%20-%20RGB%EA%B1%B0%EB%A6%AC%20"> 1149번 - RGB거리 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1932%EB%B2%88%20-%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95"> 1932번 - 정수 삼각형 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2156%EB%B2%88%20-%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D"> 2156번 - 포도주 시식 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/11057%EB%B2%88%20-%20%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98"> 11057번 - 오르막 수 </a></li>
 </ul>
 </div>
 </details>
