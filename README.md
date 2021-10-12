@@ -213,6 +213,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1932%EB%B2%88%20-%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95"> 1932번 - 정수 삼각형 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2156%EB%B2%88%20-%20%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D"> 2156번 - 포도주 시식 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/11057%EB%B2%88%20-%20%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98"> 11057번 - 오르막 수 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/10844%EB%B2%88%20-%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98"> 11084번 - 쉬운 계단 수 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/11053%EB%B2%88%20-%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4"> 11053번 - 가장 긴 증가하는 부분 수열 </a></li>
 </ul>
 </div>
 </details>
