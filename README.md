@@ -218,6 +218,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1912%EB%B2%88%20-%20%EC%97%B0%EC%86%8D%ED%95%A9"> 1912번 - 연속합 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/11055%EB%B2%88%20-%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A6%9D%EA%B0%80%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4"> 11055번 - 가장 큰 증가 부분 수열 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/11722%EB%B2%88%20-%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4"> 11722번 - 가장 긴 감소하는 부분 수열 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/1927%EB%B2%88%20-%20%EC%B5%9C%EC%86%8C%20%ED%9E%99"> 1927번 - 최소 힙 </a></li>
+
 </ul>
 </div>
 </details>
