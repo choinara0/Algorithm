@@ -225,6 +225,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/15903%EB%B2%88%20-%20%EC%B9%B4%EB%93%9C%20%ED%95%A9%EC%B2%B4%20%EB%86%80%EC%9D%B4"> 15903번 - 카드 합체 놀이 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/7662%EB%B2%88%20-%20%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90"> 7662번 - 이중 우선순위 큐 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/2075%EB%B2%88%20-%20N%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98"> 2075번 - N번째 큰 수  </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/11000%EB%B2%88%20-%20%EA%B0%95%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95"> 11000번 - 강의실 배정 </a></li>
 
 </ul>
 </div>
