@@ -1,3 +1,5 @@
+# priorityqueue 사용
+'''
 import sys
 from queue import PriorityQueue
 
@@ -19,3 +21,26 @@ for i in range(priorityQueue.qsize()):
     result += priorityQueue.get()
 
 print(result)
+'''
+
+# heapq 사용해서 우선순위 큐 만들기
+import sys
+import heapq
+
+N, M = map(int, sys.stdin.readline().split())
+card = []
+card_list = list(map(int, sys.stdin.readline().split()))
+
+for i in card_list:
+    heapq.heappush(card, i)
+
+for j in range(M):
+    card1 = heapq.heappop(card)
+    card2 = heapq.heappop(card)
+    sumCard = card1 + card2
+
+    heapq.heappush(card, sumCard)
+    heapq.heappush(card, sumCard)
+
+print(sum(card))
+
