@@ -228,6 +228,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/11000%EB%B2%88%20-%20%EA%B0%95%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95"> 11000번 - 강의실 배정 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/1374%EB%B2%88%20-%20%EA%B0%95%EC%9D%98%EC%8B%A4"> 1374번 - 강의실 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/19598%EB%B2%88%20-%20%EC%B5%9C%EC%86%8C%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EA%B0%9C%EC%88%98"> 19598번 - 최소 회의실 개수 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/13975%EB%B2%88%20-%20%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0%203"> 13975번 - 파일 합치기 3 </a></li>
 
 </ul>
 </div>
