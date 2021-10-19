@@ -234,6 +234,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/14235%EB%B2%88%20-%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%84%A0%EB%AC%BC"> 14235번 - 크리스마스 선물 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/2109%EB%B2%88%20-%20%EC%88%9C%ED%9A%8C%EA%B0%95%EC%97%B0"> 2109번 - 순회강연 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/1718%EB%B2%88%20-%20%EC%BB%B5%EB%9D%BC%EB%A9%B4"> 1718번 - 컵라면 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/1766%EB%B2%88%20-%20%EB%AC%B8%EC%A0%9C%EC%A7%91"> 1766번 - 문제집 </a></li>
 
 </ul>
 </div>
