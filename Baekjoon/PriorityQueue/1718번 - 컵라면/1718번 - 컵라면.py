@@ -12,3 +12,6 @@ for i in cupTable:
         heapq.heappop(cupSum)
 
 print(sum(cupSum))
+
+
+
