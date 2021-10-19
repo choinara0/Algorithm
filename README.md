@@ -236,6 +236,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/1718%EB%B2%88%20-%20%EC%BB%B5%EB%9D%BC%EB%A9%B4"> 1718번 - 컵라면 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue/1766%EB%B2%88%20-%20%EB%AC%B8%EC%A0%9C%EC%A7%91"> 1766번 - 문제집 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/1920%EB%B2%88%20-%20%EC%88%98%20%EC%B0%BE%EA%B8%B0"> 1920번 - 수 찾기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/10816%EB%B2%88%20-%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%202"> 10816번 - 숫자 카드 2 </a></li>
 
 </ul>
 </div>
