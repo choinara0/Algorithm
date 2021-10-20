@@ -241,6 +241,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/1654%EB%B2%88%20-%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0"> 1654번 - 랜선 자르기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2805%EB%B2%88%20-%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0"> 2805번 - 나무 자르기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2512%EB%B2%88%20-%20%EC%98%88%EC%82%B0"> 2512번 - 예산 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/1300%EB%B2%88%20-%20K%EB%B2%88%EC%A7%B8%20%EC%88%98"> 1300번 - K번째 수 </a></li>
 
 </ul>
 </div>
