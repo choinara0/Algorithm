@@ -7,7 +7,6 @@
 <div markdown="1">
 <ul>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/3%EC%A7%84%EB%B2%95%EB%92%A4%EC%A7%91%EA%B8%B0">3진법 뒤집기</a></li>
-
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/K%EB%B2%88%EC%A7%B8%EC%88%98">K번째 수</a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/%5B3%EC%B0%A8%5Dn%EC%A7%84%EC%88%98%EA%B2%8C%EC%9E%84">[3차] n진수게임</a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0">가운데 글자 가져오기</a></li>
@@ -243,6 +242,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2512%EB%B2%88%20-%20%EC%98%88%EC%82%B0"> 2512번 - 예산 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/1300%EB%B2%88%20-%20K%EB%B2%88%EC%A7%B8%20%EC%88%98"> 1300번 - K번째 수 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2470%EB%B2%88%20-%20%EB%91%90%20%EC%9A%A9%EC%95%A1"> 2470번 - 두 용액 </a></li>
+<ㅣi><ah ref="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2467%EB%B2%88%20-%20%EC%9A%A9%EC%95%A1"> 2467번 - 용액 </ah></ㅣi>
 
 </ul>
 </div>
