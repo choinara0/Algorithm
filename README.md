@@ -242,7 +242,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2512%EB%B2%88%20-%20%EC%98%88%EC%82%B0"> 2512번 - 예산 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/1300%EB%B2%88%20-%20K%EB%B2%88%EC%A7%B8%20%EC%88%98"> 1300번 - K번째 수 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2470%EB%B2%88%20-%20%EB%91%90%20%EC%9A%A9%EC%95%A1"> 2470번 - 두 용액 </a></li>
-<ㅣi><ah ref="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2467%EB%B2%88%20-%20%EC%9A%A9%EC%95%A1"> 2467번 - 용액 </ah></ㅣi>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2467%EB%B2%88%20-%20%EC%9A%A9%EC%95%A1"> 2467번 - 용액 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2473%EB%B2%88%20-%20%EC%84%B8%20%EC%9A%A9%EC%95%A1"> 2473번 - 세 용액 </a></li>
 
 </ul>
 </div>
