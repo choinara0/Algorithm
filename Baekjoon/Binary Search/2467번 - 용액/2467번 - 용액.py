@@ -1,7 +1,7 @@
 import sys
 
 N = int(sys.stdin.readline())
-liquidList = list(map(int, sys.stdin.readline().split()))
+liquidList = sorted(list(map(int, sys.stdin.readline().split())))
 left = 0
 right = len(liquidList) - 1
 answer = liquidList[left] + liquidList[right]
