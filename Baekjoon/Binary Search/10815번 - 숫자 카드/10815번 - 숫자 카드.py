@@ -22,3 +22,4 @@ def binarySearch(list, target, start, end):
 
 for t in targetList:
     print(binarySearch(cardList, t, start, end), end=' ')
+
