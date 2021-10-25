@@ -252,6 +252,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Two%20Pointer/2531%EB%B2%88%20-%20%ED%9A%8C%EC%A0%84%20%EC%B4%88%EB%B0%A5"> 2513번 - 회전 초밥 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Two%20Pointer/15916%EB%B2%88%20-%20%ED%9A%8C%EC%A0%84%20%EC%B4%88%EB%B0%A5"> 15961번 - 회전 초밥 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Two%20Pointer/1940%EB%B2%88%20-%20%EC%A3%BC%EB%AA%BD"> 1940번 - 주몽 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Two%20Pointer/2018%EB%B2%88%20-%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%205"> 2018번 - 수들의 합 5 </a></li>
 
 </ul>
 </div>
