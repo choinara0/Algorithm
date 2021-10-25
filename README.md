@@ -249,6 +249,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Two%20Pointer/3273%EB%B2%88%20-%20%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9"> 3273번 - 두 수의 합 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Two%20Pointer/1806%EB%B2%88%20-%20%EB%B6%80%EB%B6%84%ED%95%A9"> 1806번 - 부분합 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Two%20Pointer/1644%EB%B2%88%20-%20%EC%86%8C%EC%88%98%EC%9D%98%20%EC%97%B0%EC%86%8D%ED%95%A9"> 1644번 - 소수의 연속합 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Two%20Pointer/2531%EB%B2%88%20-%20%ED%9A%8C%EC%A0%84%20%EC%B4%88%EB%B0%A5"> 2513번 - 회전 초밥 </a></li>
 
 </ul>
 </div>
