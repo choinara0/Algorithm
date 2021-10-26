@@ -51,7 +51,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/blob/master/Programmer/Level%201/%EB%B3%B5%EC%84%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/%EB%B3%B5%EC%84%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py"> 복서 정렬하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0"> 없는 숫자 더하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95"> 최소직사각형 </a></li>
-
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0"> 나머지가 1이 되는 수 찾기 </a></li>
 
 </ul>
 </div>
