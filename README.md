@@ -257,6 +257,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/2583%EB%B2%88%20-%20%EC%98%81%EC%97%AD%20%EA%B5%AC%ED%95%98%EA%B8%B0"> 2583번 - 영역 구하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/2589%EB%B2%88%20-%20%EB%B3%B4%EB%AC%BC%EC%84%AC"> 2589번 - 보물섬 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/12851%EB%B2%88%20-%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%202"> 12815번 - 숨바꼮질 2 /li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1926%EB%B2%88%20-%20%EA%B7%B8%EB%A6%BC"> 1926번 - 그림 </a></li>
 
 </ul>
 </div>
