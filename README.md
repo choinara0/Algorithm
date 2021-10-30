@@ -259,6 +259,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/12851%EB%B2%88%20-%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%202"> 12815번 - 숨바꼮질 2 /li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1926%EB%B2%88%20-%20%EA%B7%B8%EB%A6%BC"> 1926번 - 그림 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/1072%EB%B2%88%20-%20%EA%B2%8C%EC%9E%84"> 1072번 - 게임 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2776%EB%B2%88%20-%20%EC%95%94%EA%B8%B0%EC%99%95"> 2776번 - 암기왕 </a></li>
 
 </ul>
 </div>
