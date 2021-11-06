@@ -265,6 +265,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/2210%EB%B2%88%20-%20%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84"> 2210번 - 숫자판 점프 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/2644%EB%B2%88%20-%20%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0"> 2644번 - 촌수계산 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/5639%EB%B2%88%20-%20%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC"> 5639번 - 이진 검색 트리 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1058%EB%B2%88%20-%20%EC%B9%9C%EA%B5%AC"> 1058번 - 친구 </a></li>
 
 </ul>
 </div>
