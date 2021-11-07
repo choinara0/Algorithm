@@ -1,6 +1,7 @@
-import sys
+`import sys
 from collections import deque
 sys.setrecursionlimit(10**6)
+
 N, M = map(int, sys.stdin.readline().split())
 computerMatrix = [[] for i in range(N+1)]
 
@@ -8,31 +9,31 @@ for i in range(M):
     a, b = map(int, sys.stdin.readline().split())
     computerMatrix[b].append(a)
 
-def bfs(x, N):
-    count = 0
+def bfs(x):
+    cnt = 1
+    visited = [0 for i in range(N+1)]
+    visited[x] = 1
     q = deque()
     q.append(x)
-    visited = [0] * (N+1)
-    visited[x] = 1
 
     while q:
-        t = q.popleft()
-        count += 1
-        for c in computerMatrix[t]:
-            if visited[c] == 0:
-                visited[c] = 1
-                q.append(c)
-    return count
+        x = q.popleft()
+        for k in computerMatrix[x]:
+            if not visited[k]:
+                q.append(k)
+                visited[k] = 1
+                cnt += 1
 
-answer = 0
+    return cnt
+
+maxCnt = 0
 result = []
 for i in range(1, N+1):
-    if computerMatrix[i]:
-        temp = bfs(i, N)
-        if answer <= temp:
-            if answer < temp:
-                result = []
-            answer = temp
-            result.append(i)
+    cnt = bfs(i)
+    if cnt >= maxCnt:
+        maxCnt = cnt
+    result.append([i, cnt])
 
-print(*result)
+for i, cnt in result:
+    if cnt == maxCnt:
+        print(i, end=' ')`
