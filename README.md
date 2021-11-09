@@ -115,6 +115,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84"> 모음 사전 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EC%9E%85%EC%8B%A4%20%ED%87%B4%EC%8B%A4"> 입실 퇴실 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC"> 게임 맵 최단거리 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0"> n^2 배열 자르기 </a></li>
 
 </ul>
 </div>
