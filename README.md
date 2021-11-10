@@ -277,6 +277,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/5014%EB%B2%88%20-%20%EC%8A%A4%ED%83%80%ED%8A%B8%20%EB%A7%81%ED%81%AC"> 5014번 - 스타트 링크 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/13549%EB%B2%88-%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203"> 13549번 - 숨바꼭질 3 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/11060%EB%B2%88%20-%20%EC%A0%90%ED%94%84%20%EC%A0%90%ED%94%84"> 11060번 - 점프 점프 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1743%EB%B2%88%20-%20%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0"> 1743번 - 음식물 피하기 </a></li>
 </ul>
 </div>
 </details>
