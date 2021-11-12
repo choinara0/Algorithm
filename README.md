@@ -281,6 +281,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1743%EB%B2%88%20-%20%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0"> 1743번 - 음식물 피하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/16928%EB%B2%88%20-%20%EB%B1%80%EA%B3%BC%20%EC%82%AC%EB%8B%A4%EB%A6%AC%20%EA%B2%8C%EC%9E%84"> 16928번 - 뱀과 사다리 게임 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/16948%EB%B2%88%20-%20%EB%8D%B0%EC%8A%A4%20%EB%82%98%EC%9D%B4%ED%8A%B8"> 16948번 - 데스 나이트 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/17141%EB%B2%88%20-%20%EC%97%B0%EA%B5%AC%EC%86%8C%202"> 17141번 - 연구소 2 </a></li>
 
 </ul>
 </div>
