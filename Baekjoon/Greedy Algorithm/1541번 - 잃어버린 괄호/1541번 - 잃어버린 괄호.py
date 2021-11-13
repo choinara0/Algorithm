@@ -1,6 +1,5 @@
 import sys
 arr = sys.stdin.readline().split('-')
-print(arr)
 answer = 0
 for i in arr[0].split('+'):
     answer += int(i)
