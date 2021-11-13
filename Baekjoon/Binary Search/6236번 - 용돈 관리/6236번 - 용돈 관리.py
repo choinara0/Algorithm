@@ -1,21 +1,29 @@
 import sys
-N, M = map(int, sys.stdin.readline().split())
-dayCost = [int(sys.stdin.readline()) for i in range(N)]
-start, end = min(dayCost), sum(dayCost)
-answer = 0
-while start <= end:
-    mid = (start + end ) // 2
-    charge = mid
-    count = 1
-    for i in range(len(dayCost)):
-        if charge < dayCost[i]:
-            charge = mid
-            count += 1
-        charge -= dayCost[i]
-        if count > M or mid < max(dayCost):
-            start = mid + 1
+def check():
+    money = 0
+    num = 0
+    for data in datas:
+        if mid < data:
+            return M+1
+        if money >= data:
+            money -= data
         else:
-            end = mid - 1
-            answer = mid
+            money = mid - data
+            num+=1
+    return num
 
+
+N, M = map(int, input().split())
+datas = [int(input()) for _ in range(N)]
+low = 0
+high = sys.maxsize
+answer = sys.maxsize
+while(low <= high):
+    mid = (low+high)//2
+    res = check()
+    if res > M:
+        low = mid + 1
+    elif res<= M:
+        answer = min(answer, mid)
+        high = mid - 1
 print(answer)
