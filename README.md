@@ -284,6 +284,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/17141%EB%B2%88%20-%20%EC%97%B0%EA%B5%AC%EC%86%8C%202"> 17141번 - 연구소 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/14442%EB%B2%88%20-%20%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%202"> 14442번 - 벽 부수고 이동하기 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1541%EB%B2%88%20-%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8"> 1514번 - 잃어버린 괄호 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/6236%EB%B2%88%20-%20%EC%9A%A9%EB%8F%88%20%EA%B4%80%EB%A6%AC"> 6236번 - 용돈 관리 </a></li>
 
 </ul>
 </div>
