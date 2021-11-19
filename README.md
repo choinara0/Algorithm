@@ -302,6 +302,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Trie%20Algorithm/14426%EB%B2%88%20-%20%EC%A0%91%EB%91%90%EC%82%AC%20%EC%B0%BE%EA%B8%B0"> 14426번 - 접두사 찾기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Trie%20Algorithm/14425%EB%B2%88%20-%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A7%91%ED%95%A9"> 14425번 - 문자열 집합 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Trie%20Algorithm/5052%EB%B2%88%20-%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D"> 5052번 - 전화번호 목록 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Trie%20Algorithm/14725%EB%B2%88%20-%20%EA%B0%9C%EB%AF%B8%EA%B5%B4"> 14725번 - 개미굴 </a></li>
 
 </ul>
 </div>
