@@ -309,6 +309,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1389%EB%B2%88%20-%20%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99"> 1389번 - 케빈 베이컨의 6단계 법칙 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/13023%EB%B2%88%20-%20ABCDE"> 13023번 - ABCDE </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/9019%EB%B2%88%20-%20DSLR"> 9019번 - DSLR </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1976%EB%B2%88%20-%20%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90"> 1976번 - 여행 가자 </a></li>
 </ul>
 </div>
 </details>
