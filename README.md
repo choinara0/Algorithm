@@ -314,7 +314,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/5427%EB%B2%88%20-%20%EB%B6%88"> 5427번 - 불 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/2665%EB%B2%88%20-%20%EB%AF%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0"> 2665번 - 미로 만들기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/11726%EB%B2%88%20-%202xN%20%ED%83%80%EC%9D%BC%EB%A7%81"> 11726번 - 2xN 타일링 </a></li>
-<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2193%EB%B2%88%20-%20%EC%9D%B4%EC%B9%9C%EC%88%98"> 2193qjs - 이친수 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2193%EB%B2%88%20-%20%EC%9D%B4%EC%B9%9C%EC%88%98"> 2193번 - 이친수 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/11727%EB%B2%88%20-%202xN%20%ED%83%80%EC%9D%BC%EB%A7%81%202"> 11727번 - 2xN 타일링 2 </a></li>
 </ul>
 </div>
 </details>
