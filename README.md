@@ -322,6 +322,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1699%EB%B2%88%20-%20%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9"> 1699번 - 제곱수의 합 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BitMasking/11723%EB%B2%88%20-%20%EC%A7%91%ED%95%A9"> 11723번 - 집합 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BitMasking/12813%EB%B2%88%20-%20%EC%9D%B4%EC%A7%84%EC%88%98%20%EC%97%B0%EC%82%B0"> 12813번 - 이진수 연산 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BitMasking/1049%EB%B2%88%20-%20%EB%A7%89%EB%8C%80%EA%B8%B0"> 1049번 - 막대기 </a></li>
+
 </ul>
 </div>
 </details>
