@@ -15,6 +15,4 @@ for x in range(N):
             dp[nx][y] += dp[x][y]
         if ny < N:
             dp[x][ny] += dp[x][y]
-print(dp)
-
-
+print(dp[N-1][N-1])
