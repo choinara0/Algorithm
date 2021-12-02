@@ -325,6 +325,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BitMasking/1049%EB%B2%88%20-%20%EB%A7%89%EB%8C%80%EA%B8%B0"> 1049번 - 막대기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BitMasking/2961%EB%B2%88%20-%20%EB%8F%84%EC%98%81%EC%9D%B4%EA%B0%80%20%EB%A7%8C%EB%93%A0%20%EB%A7%9B%EC%9E%88%EB%8A%94%20%EC%9D%8C%EC%8B%9D"> 2961번 - 도영이가 만든 맛있는 음식 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/11052%EB%B2%88%20-%20%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0"> 11052번 - 카드 구매하기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1890%EB%B2%88%20-%20%EC%A0%90%ED%94%84"> 1890번 - 점프 </a></li>
 
 </ul>
 </div>
