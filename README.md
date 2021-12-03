@@ -327,6 +327,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/11052%EB%B2%88%20-%20%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0"> 11052번 - 카드 구매하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1890%EB%B2%88%20-%20%EC%A0%90%ED%94%84"> 1890번 - 점프 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2293%EB%B2%88%20-%20%EB%8F%99%EC%A0%84%201"> 2293번 - 동전 1 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2294%EB%B2%88%20-%20%EB%8F%99%EC%A0%84%202"> 2294번 - 동전 2 </a></li>
 
 </ul>
 </div>
