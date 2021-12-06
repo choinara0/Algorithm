@@ -329,6 +329,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2293%EB%B2%88%20-%20%EB%8F%99%EC%A0%84%201"> 2293번 - 동전 1 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2294%EB%B2%88%20-%20%EB%8F%99%EC%A0%84%202"> 2294번 - 동전 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1309%EB%B2%88%20-%20%EB%8F%99%EB%AC%BC%EC%9B%90"> 1309번 - 동물원 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/9465%EB%B2%88%20-%20%EC%8A%A4%ED%8B%B0%EC%BB%A4"> 9465번 - 스티커 </a></li>
 
 </ul>
 </div>
