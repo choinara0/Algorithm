@@ -37,8 +37,6 @@ def dfs(index, result):
             op[i] += 1
             result = temp
 
-
-
 dfs(0, num[0])
 print(maxAns)
 print(minAns)
