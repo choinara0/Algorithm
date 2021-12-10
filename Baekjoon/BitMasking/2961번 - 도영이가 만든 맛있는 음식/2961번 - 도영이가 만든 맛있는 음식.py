@@ -2,6 +2,7 @@ import sys
 N = int(sys.stdin.readline())
 food = [list(map(int, sys.stdin.readline().split())) for i in range(N)]
 minTaste = 1000000000
+print(1<<N)
 for i in range(1, 1<<N):
     tasteS = 1
     tasteB = 0
@@ -13,4 +14,3 @@ for i in range(1, 1<<N):
             if minTaste > taste:
                 minTaste = taste
 print(minTaste)
-
