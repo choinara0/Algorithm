@@ -334,6 +334,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/16194번%20-%20카드%20구매하기%202"> 16194번 - 카드 구매하기 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/10870번%20-%20피보나치%20수%205"> 10870번 - 피보나치 수 5 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2748번%20-%20피보나치%20수%202"> 2848번 - 피보나치 수 2 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1965번%20-%20상자%20넣기"> 1965번 - 상자 넣기 </a></li>
 </ul>
 </div>
 </details>
