@@ -1,42 +1,34 @@
 import sys
 from collections import deque
-sys.setrecursionlimit(10 ** 6)
 
-N, M = map(int, sys.stdin.readline().split())
-matrix = [list(map(int, sys.stdin.readline().strip())) for i in range(N)]
-move = [(-1, 0), (1, 0), (0, -1), (0, 1)]
-check = 'NO'
+M, N = map(int, sys.stdin.readline().split())
+matrix = [list(map(int, sys.stdin.readline().strip())) for i in range(M)]
+visited = [[0]*N for i in range(M)]
+dx = [-1, 0, 0, 1]
+dy = [0, -1, 1, 0]
+
+def bfs(y):
+    q = deque()
+    q.append((0,y))
+    visited[0][y] = 1
+
+    while q:
+        x, y = q.popleft()
+        for i in range(4):
+            nx, ny = x + dx[i], y + dy[i]
+            if 0 <= nx < M and 0 <= ny < N and not visited[nx][ny] and not matrix[nx][ny]:
+                q.append((nx, ny))
+                visited[nx][ny] = 1
 
 
-def dfs(i, j, visited):
-    global check
-    if check == 'YES':
-        return
-    visited[i][j] = True
+for i in range(N):
+    if matrix[0][i] == 0 and not visited[0][i]:
+        bfs(i)
 
-    for _ in move:
-        new_i, new_j = i + _[0], j + _[1]
-        if new_i < 0 or new_j < 0 or new_i >= N or new_j >= M:
-            continue
-        elif new_i == (N - 1) and matrix[new_i][new_j] == 0:
-            check = 'YES'
-            return
-        elif (visited[new_i][new_j] == False) and (matrix[new_i][new_j] == 0) :
-            dfs(new_i, new_j, visited)
-    return
-
-queue = deque()
-for i in range(1):
-    for j in range(M):
-        if check=='YES':
-            break
-        visited = [[False] * M for i in range(N)]
-        if matrix[i][j] == 0:
-
-            dfs(i, j, visited)
-
-print(check)
-
+if 1 in visited[M-1]:
+    print('YES')
+else:
+    print('NO')
 '''
 8 8
 11000111
