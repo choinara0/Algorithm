@@ -353,6 +353,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/11399번%20-%20ATM"> 11399번 - ATM </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/11047번%20-%20동전%200"> 11047번 - 동전 0 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1931번%20-%20회의실%20배정"> 1931번 - 회의실 배정 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1026번%20-%20보물"> 1026번 - 보물 </a></li>
 </ul>
 </div>
 </details>
