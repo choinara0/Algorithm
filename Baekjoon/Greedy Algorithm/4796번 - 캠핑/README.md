@@ -29,3 +29,6 @@
 #### 예제 출력 1 
 - Case 1: 14
 - Case 2: 11
+
+### 문제 출처
+[백준](https://www.acmicpc.net/problem/4796)
