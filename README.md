@@ -356,6 +356,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1026번%20-%20보물"> 1026번 - 보물 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/10162번%20-%20전자레인지"> 10162번 - 전자레인지 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1789번%20-%20수들의%20합"> 1789번 - 수들의 합 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/4796번%20-%20캠핑"> 4796번 - 캠핑 </a></li>
 </ul>
 </div>
 </details>
