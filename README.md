@@ -359,6 +359,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/4796번%20-%20캠핑"> 4796번 - 캠핑 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1439번%20-%20뒤집기"> 1439번 - 뒤집기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/13305번%20-%20주유소"> 13305번 - 주유소 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1783번%20-%20병든%20나이트"> 1783번 - 병든 나이트 </a></li>
 </ul>
 </div>
 </details>
