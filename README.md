@@ -360,6 +360,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1439번%20-%20뒤집기"> 1439번 - 뒤집기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/13305번%20-%20주유소"> 13305번 - 주유소 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1783번%20-%20병든%20나이트"> 1783번 - 병든 나이트 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/2847번%20-%20게임을%20만든%20동준이"> 2847번 - 게임을 만든 동준이 </a></li>
 </ul>
 </div>
 </details>
