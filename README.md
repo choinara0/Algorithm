@@ -361,6 +361,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/13305번%20-%20주유소"> 13305번 - 주유소 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1783번%20-%20병든%20나이트"> 1783번 - 병든 나이트 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/2847번%20-%20게임을%20만든%20동준이"> 2847번 - 게임을 만든 동준이 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/1213번%20-%20팰린드롬%20만들기"> 1213번 - 팰린드롬 만들기 </a></li>
 </ul>
 </div>
 </details>
