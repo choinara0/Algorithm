@@ -367,6 +367,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2011번%20-%20암호코드"> 2011번 - 암호해독 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/2491번%20-%20수열"> 2491번 - 수열 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/15990번%20-%201%2C%202%2C%203%20더하기%205"> 15990번 - 1, 2, 3 더하기 3 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/9657번%20-%20돌%20게임%203"> 9657번 - 돌 게임 3 </a></li>
 </ul>
 </div>
 </details>
