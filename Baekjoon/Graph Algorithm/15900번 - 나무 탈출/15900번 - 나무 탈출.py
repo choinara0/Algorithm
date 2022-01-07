@@ -1,4 +1,5 @@
 import sys
+sys.setrecursionlimit(10**5)
 
 N = int(sys.stdin.readline())
 adj = [[] for i in range(N+1)]
@@ -8,24 +9,23 @@ for i in range(N-1):
     adj[n1].append(n2)
     adj[n2].append(n1)
 
-stack = [[1, 0]]
-chk = [0] * (N+1)
-chk[1] = -1
-ls = []
+depth = 0
+visited = [0] * (N+1)
 
-while stack:
-    cn, l = stack.pop()
-    chk[cn] = 1
+def dfs(start, hei, visited, arr):
+    global depth
+    visited[start] = 1
+    isLeaf = True
 
-    if cn != 1 and len(adj[cn]) == 1:
-        ls.append(l)
-        continue
+    for i in adj[start]:
+        if not visited[i]:
+            isLeaf = False
+            dfs(i, hei+1, visited, arr)
+    if isLeaf:
+        depth += hei
 
-    for nn in adj[cn]:
-        if chk[nn] == 0:
-            stack.append([nn, l+1])
-sum_ls = sum(ls)
-if  sum_ls % 2 == 1:
-    print("Yes")
-else:
+dfs(1, 0, visited, adj)
+if depth%2 == 0:
     print("No")
+else:
+    print("Yes")
