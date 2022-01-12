@@ -378,6 +378,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1746번%20-%20날짜%20계산"> 1746번 - 날짜 계산 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1120번%20-%20문자열"> 1120번 - 문자열 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2231번%20-%20분해합"> 2231번 - 분해합 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2501번%20-%20약수%20구하기"> 2501번 - 약수 구하기 </a></li>
 </ul>
 </div>
 </details>
