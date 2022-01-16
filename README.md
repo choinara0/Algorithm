@@ -381,6 +381,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2501번%20-%20약수%20구하기"> 2501번 - 약수 구하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1057번%20-%20토너먼트"> 1057번 - 토너먼트 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1075번%20-%20나누기"> 1075번 - 나누기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/3040번%20-%20백설%20공주와%20일곱%20난쟁이"> 3040번 - 백설 공주와 일곱 난쟁이 </a></li>
 </ul>
 </div>
 </details>
