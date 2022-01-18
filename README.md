@@ -383,6 +383,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1075번%20-%20나누기"> 1075번 - 나누기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/3040번%20-%20백설%20공주와%20일곱%20난쟁이"> 3040번 - 백설 공주와 일곱 난쟁이 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/10488번%20-%20유레카%20이론"> 10488번 - 유레카 이론 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1051번%20-%20슷자%20정사각형"> 1051번 - 숫자 정사각형 </a></li>
 </ul>
 </div>
 </details>
