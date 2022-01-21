@@ -386,7 +386,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1051번%20-%20슷자%20정사각형"> 1051번 - 숫자 정사각형 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2851번%20-%20슈퍼%20마리오"> 2851번 - 슈퍼 마리오 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/17626번%20-%20Four%20Squares"> 17826번 - Four Squares </a></li>
-<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1747번%20-%20소수%26팰린드롬"> 1747번 - 소수&팰린드롬 /a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1747번%20-%20소수%26팰린드롬"> 1747번 - 소수&팰린드롬 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1254번%20-%20팰린드롬%20만들기"> 1254번 - 팰린드롬 만들기 </a></li>
 </ul>
 </div>
