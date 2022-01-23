@@ -389,6 +389,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1747번%20-%20소수%26팰린드롬"> 1747번 - 소수&팰린드롬 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1254번%20-%20팰린드롬%20만들기"> 1254번 - 팰린드롬 만들기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Tree/1991번%20-%20트리%20순회"> 1991번 - 트리 순회 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Tree/9372번%20-%20상근이의%20여행"> 9372번 - 상근이의 여행</a></li>
 </ul>
 </div>
 </details>
