@@ -5,7 +5,7 @@ N, M, T = map(int, sys.stdin.readline().split())
 board = [list(map(int, sys.stdin.readline().split())) for i in range(N)]
 visited = [[0 for i in range(M)] for i in range(N)]
 dx, dy = [-1, 0, 0, 1], [0, -1, 1, 0]
-sword = 10000
+sword = 1000000
 
 def bfs():
     global sword
