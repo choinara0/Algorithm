@@ -391,6 +391,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Tree/1991번%20-%20트리%20순회"> 1991번 - 트리 순회 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Tree/9372번%20-%20상근이의%20여행"> 9372번 - 상근이의 여행</a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Tree/1068번%20-%20트리"> 1068번 - 트리 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1145번%20-%20적어도%20대부분의%20배수"> 1145번 - 적어도 대부분의 배수 </a></li>
 </ul>
 </div>
 </details>
