@@ -396,6 +396,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2422번%20-%20한윤정이%20이탈리아에%20가서%20아이스크림을%20사먹는데"> 2422번 - 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/14225번%20-%20부분수열의%20합"> 14225번 - 부분수열의 합 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/1535번%20-%20안녕"> 1535번 - 안녕 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/14940번%20-%20쉬운%20최단거리"> 쉬운 최단거리</a></li>
 </ul>
 </div>
 </details>
