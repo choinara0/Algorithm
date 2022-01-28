@@ -52,6 +52,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/없는%20숫자%20더하기"> 없는 숫자 더하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/최소직사각형"> 최소직사각형 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/나머지가%201이%20되는%20수%20찾기"> 나머지가 1이 되는 수 찾기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%201/신고%20결과%20받기"> 신고 결과 받기 </a></li>
 
 </ul>
 </div>
