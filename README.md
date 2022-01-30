@@ -174,6 +174,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/GROUP%20BY/입양%20시각%20구하기(2)"> 입양 시각 구하기(2) </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/NULL/이름이%20없는%20동물의%20아이디"> 이름이 없는 동물의 아이디 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/NULL/이름이%20있는%20동물의%20아이디"> 이름이 있는 동물의 아이디 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/NULL/NULL%20처리하기"> NULL 처리하기 </a></li>
 </ul>
 </div>
 </details>
