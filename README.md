@@ -164,6 +164,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SELECT/동물의%20아이디와%20이름"> 동물의 아이디와 이름 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SELECT/여러%20기준으로%20정렬하기"> 여러 기준으로 정렬하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SELECT/상위%20N개%20레코드"> 상위 n개 레코드 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SUM%2C%20MAX%2C%20MIN/최댓값%20구하기"> 최댓값 구하기 </a></li>
 </ul>
 </div>
 </details>
