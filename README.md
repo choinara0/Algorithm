@@ -153,6 +153,15 @@
 </div>
 </details>
 
+<details>
+<summary>Level 1</summary>
+<div markdown="1">
+<ul>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SELECT/모든%20레코드%20조회하기"> 모든 레코드 조회하기 </a></li>
+</ul>
+</div>
+</details>
+
 
 ## Baekjoon
 
