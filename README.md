@@ -167,6 +167,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SUM%2C%20MAX%2C%20MIN/최댓값%20구하기"> 최댓값 구하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SUM%2C%20MAX%2C%20MIN/최솟값%20구하기"> 최솟값 구하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SUM%2C%20MAX%2C%20MIN/동물%20수%20구하기"> 동물 수 구하기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SUM%2C%20MAX%2C%20MIN/중복%20제거하기"> 중복 제거하기 </a></li>
 </ul>
 </div>
 </details>
