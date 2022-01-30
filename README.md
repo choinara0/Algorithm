@@ -172,6 +172,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/GROUP%20BY/동명%20동물%20수%20구하기"> 동명 동물 수 구하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/GROUP%20BY/입양%20시각%20구하기(1)"> 입양 시각 구하기(1) </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/GROUP%20BY/입양%20시각%20구하기(2)"> 입양 시각 구하기(2) </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/NULL/이름이%20없는%20동물의%20아이디"> 이름이 없는 동물의 아이디 </a></li>
 </ul>
 </div>
 </details>
