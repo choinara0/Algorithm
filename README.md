@@ -160,6 +160,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SELECT/모든%20레코드%20조회하기"> 모든 레코드 조회하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SELECT/역순%20정렬하기"> 역순 정렬하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SELECT/아픈%20동물%20찾기"> 아픈 동물 찾기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SELECT/어린%20동물%20찾기"> 어린 동물 찾기 </a></li>
 </ul>
 </div>
 </details>
