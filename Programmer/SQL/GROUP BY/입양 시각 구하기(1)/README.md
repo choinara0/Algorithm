@@ -31,6 +31,5 @@ SQL문을 실행하면 다음과 같이 나와야 합니다.
 
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.
 
-
 ### 문제 출처
 [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/59412)
