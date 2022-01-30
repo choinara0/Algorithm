@@ -20,11 +20,13 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |A368930|	Dog|	2014-06-08 13:20:00|	Normal|	NULL|	Spayed Female|
 |A524634|	Dog|	2015-01-02 18:54:00|	Normal|	*Belle|	Intact Female|
 |A465637|	Dog|	2017-06-04 08:17:00|	Injured|	*Commander|	Neutered Male|
+
 이름이 없는 채로 들어온 동물의 ID는 A368930입니다. 따라서 SQL을 실행하면 다음과 같이 출력되어야 합니다.
 
 |ANIMAL_ID|
 |---|
 |A368930|
+
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.
 
 ※ 2019년 9월 4일 13시: 예시가 헷갈린다는 의견이 많아, 본문의 예시를 수정하였습니다
