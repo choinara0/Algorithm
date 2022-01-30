@@ -9,6 +9,7 @@ ANIMAL_OUTS 테이블은 동물 보호소에서 입양 보낸 동물의 정보�
 |DATETIME|	DATETIME|	FALSE|
 |NAME|	VARCHAR(N)|	TRUE|
 |SEX_UPON_OUTCOME|	VARCHAR(N)|	FALSE|
+
 보호소에서는 몇 시에 입양이 가장 활발하게 일어나는지 알아보려 합니다. 09:00부터 19:59까지, 각 시간대별로 입양이 몇 건이나 발생했는지 조회하는 SQL문을 작성해주세요. 이때 결과는 시간대 순으로 정렬해야 합니다.
 
 ### 예시
@@ -27,6 +28,7 @@ SQL문을 실행하면 다음과 같이 나와야 합니다.
 |17|	12|
 |18|	16|
 |19|	2|
+
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.
 
 

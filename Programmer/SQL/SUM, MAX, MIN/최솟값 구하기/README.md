@@ -10,6 +10,7 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |INTAKE_CONDITION|	VARCHAR(N)|	FALSE|
 |NAME|	VARCHAR(N)|	TRUE|
 |SEX_UPON_INTAKE|	VARCHAR(N)|	FALSE|
+
 동물 보호소에 가장 먼저 들어온 동물은 언제 들어왔는지 조회하는 SQL 문을 작성해주세요.
 
 ### 예시
@@ -27,6 +28,7 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |시간|
 |---|
 |2013-10-14 15:38:00|
+
 ※ 컬럼 이름(위 예제에서는 "시간")은 일치하지 않아도 됩니다.
 
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.

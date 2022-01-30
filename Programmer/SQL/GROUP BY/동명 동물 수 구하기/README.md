@@ -10,6 +10,7 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |INTAKE_CONDITION|	VARCHAR(N)|	FALSE|
 |NAME|	VARCHAR(N)|	TRUE|
 |SEX_UPON_INTAKE|	VARCHAR(N)|	FALSE|
+
 동물 보호소에 들어온 동물 이름 중 두 번 이상 쓰인 이름과 해당 이름이 쓰인 횟수를 조회하는 SQL문을 작성해주세요. 이때 결과는 이름이 없는 동물은 집계에서 제외하며, 결과는 이름 순으로 조회해주세요.
 
 ### 예시
@@ -33,6 +34,7 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |---|---|
 |Lucy|	3|
 |Raven|	2|
+
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.
 
 

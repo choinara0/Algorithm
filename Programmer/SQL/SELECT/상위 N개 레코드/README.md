@@ -28,6 +28,7 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |NAME|
 |---|
 |Jack|
+
 ※ 보호소에 가장 먼저 들어온 동물은 한 마리인 경우만 테스트 케이스로 주어집니다.
 
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.

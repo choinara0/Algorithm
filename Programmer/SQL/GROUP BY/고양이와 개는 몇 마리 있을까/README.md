@@ -10,6 +10,7 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |INTAKE_CONDITION|	VARCHAR(N)|	FALSE|
 |NAME|	VARCHAR(N)|	TRUE|
 |SEX_UPON_INTAKE|	VARCHAR(N)|	FALSE|
+
 동물 보호소에 들어온 동물 중 고양이와 개가 각각 몇 마리인지 조회하는 SQL문을 작성해주세요. 이때 고양이를 개보다 먼저 조회해주세요.
 
 ### 예시
@@ -20,12 +21,14 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |A373219|	Cat|	2014-07-29 11:43:00|	Normal|	Ella|	Spayed Female|
 |A377750|	Dog|	2017-10-25 17:17:00|	Normal|	Lucy|	Spayed Female|
 |A354540|	Cat|	2014-12-11 11:48:00|	Normal|	Tux|	Neutered Male|
+
 고양이는 2마리, 개는 1마리 들어왔습니다. 따라서 SQL문을 실행하면 다음과 같이 나와야 합니다.
 
 |ANIMAL_TYPE|	count|
 |---|---|
 |Cat|	2|
 |Dog|	1|
+
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.
 
 

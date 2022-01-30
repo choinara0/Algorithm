@@ -30,6 +30,7 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |---|---|
 |A367012|	Miller|
 |A381217|	Cherokee|
+
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.
 
 INTAKE_CONDITION이 Sick 인 경우를 뜻함 ↩

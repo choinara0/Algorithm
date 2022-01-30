@@ -22,11 +22,13 @@ ANIMAL_INS 테이블은 동물 보호소에 들어온 동물의 정보를 담은
 |A412626|	Dog|	2016-03-13 11:17:00|	Normal|	*Sam|	Neutered Male|
 |A563492|	Dog|	2014-10-24 14:45:00|	Normal|	*Sam|	Neutered Male|
 |A513956|	Dog|	2017-06-14 11:54:00|	Normal|	*Sweetie|	Spayed Female|
+
 보호소에 들어온 동물의 이름은 NULL(없음), *Sam, *Sam, *Sweetie입니다. 이 중 NULL과 중복되는 이름을 고려하면, 보호소에 들어온 동물 이름의 수는 2입니다. 따라서 SQL문을 실행하면 다음과 같이 나와야 합니다.
 
 |count|
 |---|
 |2|
+
 ※ 컬럼 이름(위 예제에서는 count)은 일치하지 않아도 됩니다.
 
 본 문제는 Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"에서 제공하는 데이터를 사용하였으며 ODbL의 적용을 받습니다.
