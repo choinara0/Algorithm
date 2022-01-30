@@ -170,6 +170,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/SUM%2C%20MAX%2C%20MIN/중복%20제거하기"> 중복 제거하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/GROUP%20BY/고양이와%20개는%20몇%20마리%20있을까"> 고양이와 개는 몇 마리 있을까 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/GROUP%20BY/동명%20동물%20수%20구하기"> 동명 동물 수 구하기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/GROUP%20BY/입양%20시각%20구하기(1)"> 입양 시각 구하기(1) </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/GROUP%20BY/입양%20시각%20구하기(2)"> 입양 시각 구하기(2) </a></li>
 </ul>
 </div>
 </details>
