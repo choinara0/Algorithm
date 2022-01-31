@@ -177,6 +177,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/NULL/NULL%20처리하기"> NULL 처리하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/JOIN/없어진%20기록%20찾기"> 없어진 기록 찾기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/JOIN/있었는데요%20없었습니다"> 있었는데요 없었습니다 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/JOIN/오랜%20기간%20보호한%20동물(1)"> 오랜 기간 보호한 동물(1) </a></li>
 </ul>
 </div>
 </details>
