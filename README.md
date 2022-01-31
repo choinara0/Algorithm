@@ -175,6 +175,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/NULL/이름이%20없는%20동물의%20아이디"> 이름이 없는 동물의 아이디 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/NULL/이름이%20있는%20동물의%20아이디"> 이름이 있는 동물의 아이디 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/NULL/NULL%20처리하기"> NULL 처리하기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/JOIN/없어진%20기록%20찾기"> 없어진 기록 찾기 </a></li>
 </ul>
 </div>
 </details>
