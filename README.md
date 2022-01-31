@@ -182,6 +182,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/String%2C%20Date/루시와%20엘라%20찾기"> 루시와 엘라 찾기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/String%2C%20Date/이름에%20el이%20들어가는%20동물%20찾기"> 이름에 el이 들어가는 동물 찾기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/String%2C%20Date/중성화%20여부%20파악하기"> 중성화 여부 파악하기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/String%2C%20Date/오랜%20기간%20보호한%20동물(2)"> 오랜 기간 보호한 동물(2) </a></li>
 </ul>
 </div>
 </details>
