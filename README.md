@@ -179,6 +179,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/JOIN/있었는데요%20없었습니다"> 있었는데요 없었습니다 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/JOIN/오랜%20기간%20보호한%20동물(1)"> 오랜 기간 보호한 동물(1) </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/JOIN/보호소에서%20중성화한%20동물"> 보호소에서 중성화한 동물 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/String%2C%20Date/루시와%20엘라%20찾기"> 루시와 엘라 찾기 </a></li>
 </ul>
 </div>
 </details>
