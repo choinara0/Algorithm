@@ -185,6 +185,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/String%2C%20Date/오랜%20기간%20보호한%20동물(2)"> 오랜 기간 보호한 동물(2) </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/String%2C%20Date/DATETIME에서%20DATE로%20형%20변환"> DATETIME에서 DATE로 형 변환 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/GROUP%20BY/헤비%20유저가%20소유한%20장소"> 헤비 유저가 소유한 장소 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/SQL/JOIN/우유와%20요거트가%20담긴%20장바구니"> 우유와 요거트가 담긴 장바구니 </a></li>
 </ul>
 </div>
 </details>
