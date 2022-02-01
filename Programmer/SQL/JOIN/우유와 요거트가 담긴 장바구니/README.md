@@ -40,5 +40,6 @@ CART_PRODUCTS 테이블
 |286|
 |448|
 
+
 ### 문제 출처
 [프로그레머스](https://programmers.co.kr/learn/courses/30/lessons/62284)
