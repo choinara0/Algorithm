@@ -1,6 +1,6 @@
 # LCS 알고리즘 공부
 import sys
-sys.setrecursionlimit(10**6)
+sys.setrecursionlimit(10**5)
 
 N = int(sys.stdin.readline()) # node의 수
 parent = [0] * (N+1) # 각 node의 parent
@@ -20,10 +20,9 @@ def dfs(n, depth):
     depth_arr[n] = depth
 
     for node in graph[n]:
-        if visited[node]:
-            continue
-        parent[node] = n
-        dfs(node, depth + 1)
+        if not visited[node]:
+            parent[node] = n
+            dfs(node, depth + 1)
 
 dfs(1, 0)
 
