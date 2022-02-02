@@ -443,6 +443,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Tree/3584번%20-%20가장%20가까운%20공통%20조상"> 3548번 - 가장 가까운 공통 조상 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Tree/11437번%20-%20LCS"> 11437번 - LCA </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Tree/11438번%20-%20LCA%202"> 11438번 - LCA 2 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/1929번%20-%20소수%20구하기"> 1929번 - 소수 구하기 </a></li>
 </ul>
 </div>
 </details>
