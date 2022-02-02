@@ -445,6 +445,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Tree/11438번%20-%20LCA%202"> 11438번 - LCA 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/1929번%20-%20소수%20구하기"> 1929번 - 소수 구하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/4948번%20-%20베르트랑%20공준"> 4948번 - 베르트랑 공준 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/1850번%20-%20최대공약수"> 1850번 - 최대공약수 </a></li>
 </ul>
 </div>
 </details>
