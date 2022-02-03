@@ -16,7 +16,6 @@ number = [1, 5, 10, 50]
 numberList = []
 sumList = [0] * 1001
 
-
 def backtrack(depth, num):
     try:
         if depth == N:
