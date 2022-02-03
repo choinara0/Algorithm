@@ -449,6 +449,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/1174번%20-%20줄어드는%20수"> 1174번 - 줄어드는 수 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/16922번%20-%20로마%20숫자%20만들기"> 16922번 - 로마 숫자 만들기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/2992번%20-%20크면서%20작은%20수"> 2992번 - 크면서 작은 수 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/14496번%20-%20그대%2C%20그머가%20되어"> 14496번 - 그대, 그머가 되어 </a></li>
 </ul>
 </div>
 </details>
