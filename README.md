@@ -452,6 +452,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/14496번%20-%20그대%2C%20그머가%20되어"> 14496번 - 그대, 그머가 되어 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/6118번%20-%20숨바꼭질"> 6118번 - 숨바꼭질 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/15558번%20-%20점프%20게임"> 15558번 - 점프 게임 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/16173번%20-%20점프왕%20쩰리(Small)"> 16173번 - 점프왕 쩰리(Small) </a></li>
 </ul>
 </div>
 </details>
