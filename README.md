@@ -120,6 +120,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/방문%20길이"> 방문 길이 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/배달"> 배달 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/조이스틱"> 조이스틱 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/거리두기%20확인하기"> 거리두기 확인하기 </a></li>
 
 
 
