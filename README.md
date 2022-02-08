@@ -122,6 +122,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/조이스틱"> 조이스틱 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/거리두기%20확인하기"> 거리두기 확인하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/주차%20요금%20계산"> 주차 요금 계산 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/피로도"> 피로도 </a></li>
 
 
 
