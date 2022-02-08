@@ -461,6 +461,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/14248번%20-%20점프%20점프"> 14248번 - 점프 점프 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/14562번%20-%20태권왕"> 14562번 - 태권왕 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/6593번%20-%20상범%20빌딩"> 6593번 - 상범 빌딩 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1240번%20-%20노드사이의%20거리"> 1240번 - 노드사이의 거리 </a></li>
 </ul>
 </div>
 </details>
