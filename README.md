@@ -465,6 +465,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/6593번%20-%20상범%20빌딩"> 6593번 - 상범 빌딩 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1240번%20-%20노드사이의%20거리"> 1240번 - 노드사이의 거리 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/14395번%20-%204연산"> 14395번 - 4연산 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1969번%20-%20DNA"> 1969번 - DNA </a></li>
 </ul>
 </div>
 </details>
