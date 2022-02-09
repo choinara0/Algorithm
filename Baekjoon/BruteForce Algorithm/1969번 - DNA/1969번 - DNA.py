@@ -15,9 +15,9 @@ for i in range(M):
             count[0] += 1
         elif dna_list[j][i] == 'C':
             count[1] += 1
-        elif dna_list[j][i] == 'T':
-            count[2] += 1
         elif dna_list[j][i] == 'G':
+            count[2] += 1
+        elif dna_list[j][i] == 'T':
             count[3] += 1
 
     idx_max_dna = count.index(max(count))
@@ -26,9 +26,9 @@ for i in range(M):
     elif idx_max_dna == 1:
         answer += 'C'
     elif idx_max_dna == 2:
-        answer += 'T'
-    elif idx_max_dna == 3:
         answer += 'G'
+    elif idx_max_dna == 3:
+        answer += 'T'
     hamming_distance += N - max(count)
 
 print(answer)
