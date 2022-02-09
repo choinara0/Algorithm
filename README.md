@@ -123,6 +123,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/거리두기%20확인하기"> 거리두기 확인하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/주차%20요금%20계산"> 주차 요금 계산 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/피로도"> 피로도 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/전력망을%20둘로%20나누기"> 전력망을 둘로 나누기 </a></li>
 
 
 
