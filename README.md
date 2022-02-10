@@ -469,6 +469,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/14395번%20-%204연산"> 14395번 - 4연산 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1969번%20-%20DNA"> 1969번 - DNA </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/17265번%20-%20나의%20인생에는%20수학과%20함께"> 17265번 - 나의 인생에는 수학과 함께 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/14916번%20-%20거스름돈"> 14916번 - 거스름돈 </a></li>
 </ul>
 </div>
 </details>
