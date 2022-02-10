@@ -1,5 +1,4 @@
 import sys
-from collections import deque
 
 N = int(sys.stdin.readline())
 board = [list(map(str, sys.stdin.readline().split())) for i in range(N)]
