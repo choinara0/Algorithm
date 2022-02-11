@@ -471,6 +471,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/17265번%20-%20나의%20인생에는%20수학과%20함께"> 17265번 - 나의 인생에는 수학과 함께 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/14916번%20-%20거스름돈"> 14916번 - 거스름돈 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/9020번%20-%20골드바흐의%20추측"> 9020번 - 골드바흐의 추측 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/2609번%20-%20최대공약수와%20최소공배수"> 2609번 - 최대공약수와 최소공배수  </a></li>
 </ul>
 </div>
 </details>
