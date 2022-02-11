@@ -473,6 +473,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/9020번%20-%20골드바흐의%20추측"> 9020번 - 골드바흐의 추측 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/2609번%20-%20최대공약수와%20최소공배수"> 2609번 - 최대공약수와 최소공배수  </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/9613번%20-%20GCD%20합"> 9613번 - GCD 합 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/10972번%20-%20다음%20순열"> 10972번 - 다음 순열 </a></li>
 </ul>
 </div>
 </details>
