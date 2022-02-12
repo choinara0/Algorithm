@@ -475,6 +475,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/9613번%20-%20GCD%20합"> 9613번 - GCD 합 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/10972번%20-%20다음%20순열"> 10972번 - 다음 순열 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/15886번%20-%20내%20선물을%20받아줘%202"> 15886번 - 내 선물을 받아줘  2 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/18232번%20-%20텔레포트%20정거장"> 18232번 - 텔레포트 정거장 </a></li>
 </ul>
 </div>
 </details>
