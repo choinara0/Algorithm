@@ -484,6 +484,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/18243번%20-%20Small%20World%20Network"> 18243번 - Small World Network </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/16395번%20-%20파스칼의%20삼각형"> 16395번 - 파스칼의 삼각형 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/15489번%20-%20파스칼%20삼각형"> 15489번 - 파스칼 삼각형 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/19947번%20-%20투자의%20귀재%20배주형"> 19947q번 - 투자의 귀재 배주형 </a></li>
 </ul>
 </div>
 </details>
