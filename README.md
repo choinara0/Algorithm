@@ -481,6 +481,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/11581번%20-%20구호물자"> 11581번 - 구호물자 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/21937번%20-%20작업"> 21937번 - 작업 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/24479번%20-%20알고리즘%20수업%20-%20깊이%20우선%20탐색%201%20"> 24479번 - 알고리즘 수업 - 깊이 우선 탐색 1 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/18243번%20-%20Small%20World%20Network"> 18243번 - Small World Network </a></li>
 </ul>
 </div>
 </details>
