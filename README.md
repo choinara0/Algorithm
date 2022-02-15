@@ -483,6 +483,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/24479번%20-%20알고리즘%20수업%20-%20깊이%20우선%20탐색%201%20"> 24479번 - 알고리즘 수업 - 깊이 우선 탐색 1 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/18243번%20-%20Small%20World%20Network"> 18243번 - Small World Network </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/16395번%20-%20파스칼의%20삼각형"> 16395번 - 파스칼의 삼각형 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/15489번%20-%20파스칼%20삼각형"> 15489번 - 파스칼 삼각형 </a></li>
 </ul>
 </div>
 </details>
