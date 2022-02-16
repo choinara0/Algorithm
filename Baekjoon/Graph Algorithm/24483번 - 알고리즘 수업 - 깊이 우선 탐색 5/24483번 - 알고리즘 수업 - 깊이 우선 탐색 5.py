@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(10**5)
+sys.setrecursionlimit(10**6)
 N, M, R = map(int, sys.stdin.readline().split())
 graph = [[]*(N+1) for _ in range(N+1)]
 visited = [0] * (N+1)
