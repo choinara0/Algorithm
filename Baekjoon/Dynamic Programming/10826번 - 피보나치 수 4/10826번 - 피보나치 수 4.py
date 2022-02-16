@@ -3,7 +3,7 @@ import sys
 n = int(sys.stdin.readline())
 if n == 0:
     print(0)
-elif n == 1 and n == 2:
+elif n == 1 or n == 2:
     print(1)
 else:
     dp = [0] * (n + 1)
