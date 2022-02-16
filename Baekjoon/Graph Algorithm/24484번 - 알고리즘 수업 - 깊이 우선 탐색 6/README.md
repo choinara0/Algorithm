@@ -36,4 +36,4 @@ dfs(V, E, R) {  # V : 정점 집합, E : 간선 집합, R : 시작 정점
 - 20
 
 ### 문제 출처
-[백준](https://www.acmicpc.net/problem/24483)
+[백준](https://www.acmicpc.net/problem/24484)
