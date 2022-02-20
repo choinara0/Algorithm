@@ -501,6 +501,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/2581번%20-%20소수"> 2581번 - 소수 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/9205번%20-%20맥주%20마시면서%20걸어가기"> 9205번 - 맥주 마시면서 걸어가기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/2960번%20-%20에라토스테네스의%20체"> 2960번 - 에라토스테네스의 체 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/6588번%20-%20골드바흐의%20추측"> 6588번 - 골드바흐의 추측 </a></li>
 </ul>
 </div>
 </details>
