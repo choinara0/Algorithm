@@ -505,6 +505,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/6588번%20-%20골드바흐의%20추측"> 6588번 - 골드바흐의 추측 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/7795번%20-%20먹을%20것인가%20먹힐%20것인가"> 7795번 - 먹을 것인가 먹힐 것인가 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2792번%20-%20보석상자"> 2792번 - 보석상자 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1059번%20-%20좋은%20구간"> 1059번 - 좋은 구간 </a></li>
 </ul>
 </div>
 </details>
