@@ -513,6 +513,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/10828번%20-%20스택"> 10828번 - 스택 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/10845번%20-%20큐"> 10845번 - 큐 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/18258번%20-%20큐%202"> 18258번 - 큐 2 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/10866번%20-%20덱"> 10866번 - 덱 </a></li>
 </ul>
 </div>
 </details>
