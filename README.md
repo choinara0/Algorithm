@@ -515,6 +515,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/18258번%20-%20큐%202"> 18258번 - 큐 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/10866번%20-%20덱"> 10866번 - 덱 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/1158번%20-%20요세푸스%20문제"> 1158번 - 요세푸스 문제 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/9012번%20-%20괄호"> 9012번 - 괄호 </a></li>
 </ul>
 </div>
 </details>
