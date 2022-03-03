@@ -11,6 +11,7 @@ for _ in range(N):
 for _ in range(T):
     max_height = heapq.heappop(height_heap)
     if abs(max_height) < H:
+        heapq.heappush(height_heap, max_height)
         break
     elif abs(max_height) == 1:
         heapq.heappush(height_heap, max_height)
