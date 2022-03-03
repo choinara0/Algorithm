@@ -19,7 +19,7 @@ for _ in range(T):
         heapq.heappush(height_heap, max_height)
         count += 1
 
-if abs(min(max_height)) < H:
+if abs(min(height_heap)) < H:
     print('YES')
     print(count)
 else:
