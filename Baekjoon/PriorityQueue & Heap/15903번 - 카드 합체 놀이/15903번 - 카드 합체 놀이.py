@@ -22,11 +22,11 @@ print(sum(card))
 # priorityqueue 사용
 '''
 import sys
-from queue import PriorityQueue
+from queue import PriorityQueue & Heap
 
 N, M = map(int, sys.stdin.readline().split())
 num = list(map(int, sys.stdin.readline().split()))
-priorityQueue = PriorityQueue()
+priorityQueue = PriorityQueue & Heap()
 result = 0
 for i in range(N):
     priorityQueue.put(num[i])
