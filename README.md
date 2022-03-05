@@ -142,6 +142,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/2%20x%20n%20타일링"> 2 x n 타일링 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/거스름돈"> 거스름돈 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/디스크%20컨트롤러"> 디스크 컨트롤러 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/이중우선순위큐"> 이중우선순위큐 </a></li>
 </ul>
 </div>
 </details>
