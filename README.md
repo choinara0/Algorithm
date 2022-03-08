@@ -521,6 +521,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue%20%26%20Heap/19638번%20-%20센티와%20마법의%20뿅망치"> 19638번 - 센티와 마법의 뿅망치 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/PriorityQueue%20%26%20Heap/13904번%20-%20과제"> 13904번 - 과제 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/17142번%20-%20연구소%203"> 17142번 - 연구소 3 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/String/1316번%20-%20그룹%20단어%20체커"> 1316번 - 그룹 단어 체커 </a></li>
 </ul>
 </div>
 </details>
