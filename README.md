@@ -525,6 +525,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/String/1427번%20-%20소트인사이드"> 1427번 - 소트인사이드 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/String/1181번%20-%20단어%20정렬"> 1181번 - 단어 정렬 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/String/11656번%20-%20접미사%20배열"> 11656번 - 접미사 배열 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/String/1251번%20-%20단어%20나누기"> 1251번 - 단어 나누기 </a></li>
 </ul>
 </div>
 </details>
