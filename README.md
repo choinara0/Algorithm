@@ -528,6 +528,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/String/1251번%20-%20단어%20나누기"> 1251번 - 단어 나누기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/String/17413번%20-%20단어%20뒤집기%202"> 17413번 - 단어 뒤집기 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/String/9935번%20-%20문자열%20폭발"> 9935번 - 문자열 폭발 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/5430번%20-%20AC"> 5430번 - AC </a></li>
 </ul>
 </div>
 </details>
