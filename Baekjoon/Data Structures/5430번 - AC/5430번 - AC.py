@@ -10,7 +10,7 @@ for _ in range(T):
     check = False
     R_cnt = 0
     if arr[0] == '':
-        arr= deque()
+        arr = deque()
 
     for i in p:
         if i == 'R':
