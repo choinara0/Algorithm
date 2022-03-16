@@ -532,6 +532,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/3190번%20-%20뱀"> 3190반 - 뱀 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/1966번%20-%20프린터%20큐"> 1966번 - 프린터 큐 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/1874번%20-%20스택%20수열"> 1874번 - 스택 수열 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/9375번%20-%20패션왕%20신해빈"> 9375번 - 패션왕 신해빈 </a></li>
 </ul>
 </div>
 </details>
