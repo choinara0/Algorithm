@@ -533,6 +533,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/1966번%20-%20프린터%20큐"> 1966번 - 프린터 큐 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/1874번%20-%20스택%20수열"> 1874번 - 스택 수열 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/9375번%20-%20패션왕%20신해빈"> 9375번 - 패션왕 신해빈 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/1302번%20-%20베스트셀러"> 1302번 - 베스트셀러 </a></li>
 </ul>
 </div>
 </details>
