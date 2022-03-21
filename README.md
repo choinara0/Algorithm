@@ -537,6 +537,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1963번%20-%20소수%20경로"> 1963번 - 소수 경로 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/1021번%20-%20회전하는%20큐"> 1021번 - 회전하는 큐  </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/2346번%20-%20%20풍선%20터트리기"> 2346번 - 풍선 터트리기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/13417번%20-%20카드%20문자열"> 13417번 - 카드 문자열 </a></li>
 </ul>
 </div>
 </details>
