@@ -4,20 +4,18 @@ T = int(sys.stdin.readline())
 
 for _ in range(T):
     L = sys.stdin.readline().rstrip()
-    stack = []
-    left_cnt = 0
-    right_cnt = 0
-    for i in range(len(L)):
-        if L[i] == '-' and stack:
-            stack.pop()
-        elif L[i] == '<' and stack:
-            left_cnt += 1
-        elif L[i] == '>' and stack:
-            right_cnt += 1
+    left, right = [], []
+
+    for x in L:
+        if x == '-':
+            if left:
+                left.pop()
+        elif x == '<' :
+            if left:
+                right.append(left.pop())
+        elif x == '>':
+            if right:
+                left.append(right.pop())
         else:
-            if not stack:
-                left_cnt = 0
-                right_cnt = 0
-                stack.append(L[i])
-            else:
-                
+            left.append(x)
+    print(''.join(left)+''.join(reversed(right)))
