@@ -544,6 +544,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/4358번%20-%20생태학"> 4358번 - 생태학 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/5397번%20-%20키로거"> 5397번 - 키로거 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/1935번%20-%20후위%20표기식%202"> 1935번 - 후위 표기식 2</a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/2812번%20-%20크게%20만들기"> 2812번 - 크게 만들기 </a></li>
 </ul>
 </div>
 </details>
