@@ -551,6 +551,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/12865번%20-%20평범한%20배낭"> 12865번 - 평범한 배낭 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/18428번%20-%20감시%20피하기"> 18428번 - 감시 피하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/2502번%20-%20떡%20먹는%20호랑이"> 2502번 - 떡 먹는 호랑이 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BruteForce%20Algorithm/1342번%20-%20행운의%20문자열%20"> 1342번 - 행운의 문자열 </a></li>
 </ul>
 </div>
 </details>
