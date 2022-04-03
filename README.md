@@ -555,6 +555,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1916번%20-%20최소비용%20구하기"> 1916번 - 최소비용 구하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1446번%20-%20지름길"> 1446번 - 지름길 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/5972번%20-%20택배%20배송"> 5972번 - 택배 배송 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1504번%20-%20특정한%20최단%20경로"> 1504번 - 특정한 최단 경로 </a></li>
 </ul>
 </div>
 </details>
