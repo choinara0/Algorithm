@@ -558,6 +558,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1504번%20-%20특정한%20최단%20경로"> 1504번 - 특정한 최단 경로 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/4485번%20-%20녹색%20옷%20입은%20애가%20젤다지%3F"> 4485번 - 녹색 옷 입은 애가 젤다지? </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/10282번%20-%20해킹"> 10282번 - 해킹 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1238번%20-%20파티"> 1238번 - 파티 </a></li>
 </ul>
 </div>
 </details>
