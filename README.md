@@ -559,6 +559,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/4485번%20-%20녹색%20옷%20입은%20애가%20젤다지%3F"> 4485번 - 녹색 옷 입은 애가 젤다지? </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/10282번%20-%20해킹"> 10282번 - 해킹 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1238번%20-%20파티"> 1238번 - 파티 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/18223번%20-%20민준이와%20마산%20그리고%20건우"> 18223번 - 민준이와 마산 그리고 건우 </a></li>
 </ul>
 </div>
 </details>
