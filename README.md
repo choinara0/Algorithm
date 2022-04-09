@@ -563,6 +563,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/1261번%20-%20알고스팟"> 1261번 - 알고스팟 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/11779번%20-%20최소비용%20구하기%202"> 11779번 - 최소비용 구하기 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1719번%20-%20택배"> 1719번 - 택배 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/14938번%20-%20서강그라운드"> 14938번 - 서강그라운드 </a></li>
 </ul>
 </div>
 </details>
