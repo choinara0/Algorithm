@@ -565,6 +565,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1719번%20-%20택배"> 1719번 - 택배 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/14938번%20-%20서강그라운드"> 14938번 - 서강그라운드 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/17396번%20-%20백도어"> 17396번 - 백도어 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/14284번%20-%20간선%20이어가기%202"> 14284번 - 간선 이어가기 2 </a></li>
 </ul>
 </div>
 </details>
