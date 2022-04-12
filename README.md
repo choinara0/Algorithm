@@ -568,6 +568,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/14284번%20-%20간선%20이어가기%202"> 14284번 - 간선 이어가기 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/13424번%20-%20비밀%20모임"> 13424번 - 비밀 모임 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/12834번%20-%20주간%20미팅"> 12834번 - 주간 미팅 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/20007번%20-%20떡%20돌리기"> 20007번 - 떡 돌리기 </a></li>
 </ul>
 </div>
 </details>
