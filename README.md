@@ -575,6 +575,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/23801번%20-%20두%20단계%20최단%20경로%202"> 23801번 - 두 단계 최단 경로 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/6087번%20-%20레이저%20통신"> 6087번 - 레이저 통신 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/15681번%20-%20트리와%20쿼리"> 15681번 - 트리와 쿼리 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/24513번%20-%20좀비%20바이러스"> 23513번 - 좀비 바이러스 </a></li>
 </ul>
 </div>
 </details>
