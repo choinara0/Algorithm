@@ -585,6 +585,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Prefix%20Sum/11660번%20-%20구간%20합%20구하기%205"> 11660번 - 구간 합 구하기 5 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Prefix%20Sum/11441번%20-%20합%20구하기"> 11441번 - 합 구하기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Prefix%20Sum/16507번%20-%20어두운%20건%20무서워"> 16507번 - 어두운 건 무서워 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Prefix%20Sum/15724번%20-%20주지수"> 15724번 - 주지수 </a></li>
 </ul>
 </div>
 </details>
