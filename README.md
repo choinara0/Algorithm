@@ -589,6 +589,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dynamic%20Programming/10211번%20-%20Maximum%20Subarray"> 10211번 - Maximum Subarray </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/16502번%20-%20그녀를%20찾아서"> 16502번 - 그녀를 찾아서 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/14218번%20-%20그래프%20탐색%202"> 14218번 - 그래프 탐색 2 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/6146번%20-%20신아를%20만나러"> 6146번 - 신아를 만나러 </a></li>
 </ul>
 </div>
 </details>
