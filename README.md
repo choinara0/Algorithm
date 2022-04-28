@@ -594,6 +594,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/19949번%20-%20영재의%20시험"> 19949번 - 영재의 시험 2 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/BackTracking/21735번%20-%20눈덩이%20굴리기"> 21735번 - 눈덩이 굴리기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/9694번%20-%20무엇을%20아느냐가%20아니라%20누구를%20아느냐가%20문제다"> 9694번 - 무엇을 아느냐가 아니라 누구를 아느냐가 문제다 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/9370번%20-%20미확인%20도착지"> 9370번 - 미확인 도착지 </a></li>
 </ul>
 </div>
 </details>
