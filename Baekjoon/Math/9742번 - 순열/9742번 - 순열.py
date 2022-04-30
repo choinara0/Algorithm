@@ -8,6 +8,7 @@ def factorial(n):
     return r
 
 def permu(selected, i):
+    print(selected)
     global cnt
     if i == len(s):
         cnt += 1
@@ -29,7 +30,6 @@ while True:
     k = int(k)
     l = factorial(len(s))
     cnt = 0
-    state = False
     if k > l:
         print('{} {} = No permutation'.format(s, k))
     else:
