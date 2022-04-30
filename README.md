@@ -597,6 +597,8 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/9370번%20-%20미확인%20도착지"> 9370번 - 미확인 도착지 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1967번%20-%20트리의%20지름"> 1967번 - 트리의 지름 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1167번%20-%20트리의%20지름"> 1167번 - 트리의 지름 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/15971번%20-%20두%20로봇"> 15971번 - 두 로봇 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/9742번%20-%20순열"> 9742번 - 순열 </a></li>
 </ul>
 </div>
 </details>
