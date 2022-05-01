@@ -599,6 +599,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Dijkstra%20Algorithm/1167번%20-%20트리의%20지름"> 1167번 - 트리의 지름 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/15971번%20-%20두%20로봇"> 15971번 - 두 로봇 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/9742번%20-%20순열"> 9742번 - 순열 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Prefix%20Sum/21758번-%20꿀%20따기"> 21758번 - 꿀 따기 </a></li>
 </ul>
 </div>
 </details>
