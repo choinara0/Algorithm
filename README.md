@@ -601,6 +601,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Math/9742번%20-%20순열"> 9742번 - 순열 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Prefix%20Sum/21758번-%20꿀%20따기"> 21758번 - 꿀 따기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/2146번%20-%20다리%20만들기"> 2146번 - 다리 만들기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/17471번%20-%20게리맨더링"> 17471번 - 게리멘더링 </a></li>
 </ul>
 </div>
 </details>
