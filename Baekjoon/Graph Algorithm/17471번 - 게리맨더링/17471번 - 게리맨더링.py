@@ -1,6 +1,7 @@
 import sys
 from collections import deque
 from itertools import combinations
+input = sys.stdin.readline
 
 def bfs(arr):
     start = arr[0]
@@ -19,8 +20,6 @@ def bfs(arr):
 
     return num, len(visited)
 
-input = sys.stdin.readline
-
 N = int(input())
 people = [0] + list(map(int, input().split()))
 graph = [[] for _ in range(N+1)]
@@ -36,7 +35,10 @@ for i in range(1, N//2+1):
         sum1, temp1 = bfs(comb)
         sum2, temp2 = bfs([i for i in range(1, N+1) if i not in comb])
 
-    if temp1 + temp2 == N:
-        result = min(result, abs(sum1 -sum2))
+        if temp1 + temp2 == N:
+            result = min(result, abs(sum1 -sum2))
 
-print(result)
+if result != sys.maxsize:
+    print(result)
+else:
+    print(-1)
