@@ -604,6 +604,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/2146번%20-%20다리%20만들기"> 2146번 - 다리 만들기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Graph%20Algorithm/17471번%20-%20게리맨더링"> 17471번 - 게리멘더링 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/2417번%20-%20정수%20제곱근"> 2417번 - 정수 제곱근 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/13706번%20-%20제곱근"> 13706번 - 제곱근 </a></li>
 </ul>
 </div>
 </details>
