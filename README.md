@@ -608,6 +608,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/16401번%20-%20과자%20나눠주기"> 16401번 - 과자 나눠주기 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/19637번%20-%20IF문%20좀%20대신%20써줘%20"> 19637번 - IF문 좀 대신 써줘 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/4158번%20-%20CD"> 4158번 - CD </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/13702번%20-%20이상한%20술집"> 13702번 - 이상한 술집 </a></li>
 </ul>
 </div>
 </details>
