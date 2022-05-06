@@ -3,7 +3,7 @@ input = sys.stdin.readline
 
 N, K = map(int, input().split())
 arr = [int(input()) for _ in range(N)]
-left, right = 1, arr[0]
+left, right = 1, max(arr)
 answer = 0
 
 while left <= right:
