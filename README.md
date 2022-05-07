@@ -611,6 +611,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/13702번%20-%20이상한%20술집"> 13702번 - 이상한 술집 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/14627번%20-%20파닭파닭"> 14627번 - 파닭파닭 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/16564번%20-%20히오스%20프로게이머"> 16564번 - 히오스 프로게이머 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Binary%20Search/15810번%20-%20풍선"> 15810번 - 풍선 </a></li>
 </ul>
 </div>
 </details>
