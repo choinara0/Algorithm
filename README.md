@@ -616,6 +616,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/1746번%20-%20듣보잡"> 1746번 - 듣보잡 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/11652번%20-%20카드"> 11652번 - 카드 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/2910번%20-%20빈도%20정렬"> 2910번 - 빈도 정렬 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/13414번%20-%20수강신청"> 13414번 - 수강신청 </a></li>
 
 </ul>
 </div>
