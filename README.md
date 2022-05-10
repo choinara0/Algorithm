@@ -621,6 +621,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/11478번%20-%20서로%20다른%20문자열의%20개수"> 11478번 - 서로 다른 문자열의 개수 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/20291번%20-%20파일%20정리"> 20219번 - 파일 정리 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/2002번%20-%20추월"> 2002번 - 추월 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/20413번%20-%20MVP%20다이아몬드%20(Easy)%20"> 20413번 - MVP 다이아몬드(Easy) </a></li>
 </ul>
 </div>
 </details>
