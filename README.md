@@ -124,6 +124,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/주차%20요금%20계산"> 주차 요금 계산 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/피로도"> 피로도 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/전력망을%20둘로%20나누기"> 전력망을 둘로 나누기 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%202/k진수에서%20소수%20개수%20구하기"> k진수에서 소수 개수 구하기 </a></li>
 
 
 
@@ -623,6 +624,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/20291번%20-%20파일%20정리"> 20219번 - 파일 정리 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Data%20Structures/2002번%20-%20추월"> 2002번 - 추월 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Baekjoon/Greedy%20Algorithm/20413번%20-%20MVP%20다이아몬드%20(Easy)%20"> 20413번 - MVP 다이아몬드(Easy) </a></li>
+
 </ul>
 </div>
 </details>
