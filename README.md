@@ -150,6 +150,7 @@
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/입국심사"> 입국심사 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/베스트앨범"> 베스트앨범 </a></li>
 <li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/야근%20지수"> 야근 지수 </a></li>
+<li><a href="https://github.com/choinara0/Algorithm/tree/master/Programmer/Level%203/모두%200으로%20만들기"> 모두 0으로 만들기 </a></li>
 </ul>
 </div>
 </details>
