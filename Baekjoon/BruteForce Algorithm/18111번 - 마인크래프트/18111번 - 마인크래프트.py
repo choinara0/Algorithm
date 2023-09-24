@@ -16,9 +16,10 @@ for i in range(257):
             else:
                 append_floor += i - board[j][k]
 
-    if minus_floor + B >= append_floor:
-        if append_floor + (minus_floor * 2) <= answer:
-            answer = append_floor + (minus_floor * 2)
-            floor = i
+    if minus_floor + B < append_floor:
+        continue
+    if append_floor + (minus_floor * 2) <= answer:
+        answer = append_floor + (minus_floor * 2)
+        floor = i
 
 print(answer, floor)
